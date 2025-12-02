@@ -1,0 +1,4 @@
+
+changeBg:門鎖好.jpg;
+:門鎖完好 顯示是用鑰匙開的;
+changeScene:校園探索.txt;

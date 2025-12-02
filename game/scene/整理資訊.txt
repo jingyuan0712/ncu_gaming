@@ -1,0 +1,9 @@
+
+intro:你思考了許久 你知道 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:學生會長.jpg;
+:鑰匙由學生會長借出（但是被指使）;
+changeBg:李昀潔.jpg;
+:李昀潔知道證書被更換;
+changeBg:教務主任.jpg;
+:教務主任有動機、有時間、有工具;
+choose:前往指認犯人:指認犯人.txt;

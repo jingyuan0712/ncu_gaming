@@ -1,0 +1,9 @@
+
+intro:你指認學生會長是犯人 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:校長很生氣.jpg;
+:校長大怒 立刻停學他;
+intro:但幾天後 真正的證書出現在校長辦公桌裡|原來是校長自己藏起來|偽造畢業名單... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+playVideo:主角失敗結局.mp4 -skipOff;
+intro:你指認錯人了... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:YOU LOSS... -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

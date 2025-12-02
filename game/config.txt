@@ -1,0 +1,5 @@
+Game_name:《校園迷霧：消失的證書》;
+Game_key:170ecdd05d7bfd5;
+Title_img:遊戲開始畫面.jpg;
+Title_bgm:懸疑音樂.MP3;
+Textbox_theme:imss;

@@ -1,0 +1,13 @@
+
+intro:你選擇「不指認任何人」 繼續調查。 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:主角偷偷潛入校長辦公室.jpg;
+:晚上 你潛入校長室 發現保險箱中藏有「偽造畢業名單」與「收賄證據」;
+changeBg:校長做壞事.jpg;
+:其實真正的犯人是校長 他讓教務主任背黑鍋;
+:你錄下證據;
+changeBg:校長被公審.jpg;
+:隔天新聞曝光 校長辭職 學校重整;
+playVideo:主角獲勝結局.mp4 -skipOff;
+intro:恭喜你成功指認出犯人!!! -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:YOU WIN!!! -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;

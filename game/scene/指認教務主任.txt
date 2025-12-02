@@ -1,0 +1,8 @@
+
+intro:你指認了學務主任 並向校長展示完整證據 -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+changeBg:教務主任認錯.jpg;
+教務主任:我只是想揭露校方偷偷修改畢業名單、收賄讓人畢業;
+playVideo:教務主任被處置結局.mp4 -skipOff;
+intro:恭喜你成功指認出犯人!!! -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+intro:YOU WIN!!! -fontSize=medium -backgroundColor=rgba(0, 0, 0, 1) -fontColor=rgba(255, 255, 255, 1) -animation=fadeIn -delayTime=1500;
+end;
